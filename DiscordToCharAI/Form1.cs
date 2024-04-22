@@ -85,7 +85,7 @@ namespace DiscordToCharAI
             {
                 MessageBox.Show(
                     "Invalid file! Must be discord message json file ('messages.json').",
-                    "Warning",
+                    "Warning!",
                     MessageBoxButtons.OK,
                     MessageBoxIcon.Warning);
             }
